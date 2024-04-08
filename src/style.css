@@ -2,4 +2,12 @@ img {
   width: 100%;
   height: auto;
   object-fit: cover;
+  position: absolute;
+  z-index: -1;
+}
+
+h1,
+p {
+  background-color: rgb(255, 200, 49);
+  text-align: center;
 }
